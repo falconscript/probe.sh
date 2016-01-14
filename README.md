@@ -7,6 +7,6 @@ A more complex analysis tool in NodeJS or C++ would be more valuable
 But this is a fun script.
 
 # To Run:
-git clone 
-chmod 777 ./probe.sh/probeCapture.sh
-./probe.sh/probeCapture.sh
+- git clone https://github.com/falconscript/probe.sh.git
+- chmod 777 ./probe.sh/probeCapture.sh
+- ./probe.sh/probeCapture.sh
