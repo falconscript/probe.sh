@@ -36,4 +36,5 @@ listening on en0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), capt
 ```
 
 Output Template is:
+
 ```(BSSID requested) [SA - Source Mac address] [-xxdB strengths] [ [+] Matching IP found from arpcache ]```
